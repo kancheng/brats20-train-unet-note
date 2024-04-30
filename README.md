@@ -7,9 +7,7 @@ Multimodal Brain Tumor Segmentation Challenge 2020: Data : https://www.med.upenn
 
 ## Note
 
-```
-
-```
+brats20 拆成 JPG File.
 
 ## Reference
 1. https://www.kaggle.com/code/mojtabanafez/brats-2020-pytorch-unet2d-2/notebook
