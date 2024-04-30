@@ -1,5 +1,9 @@
 # brats20-train-unet-note
+
 brats20 數據處理
+
+- brats-nifti-to-jpg.ipynb，本地環境，Python 3.11，PyTorch 2.2.2
+- brats-2020-pytorch-unet2d-2，使用 Kaggle 原作者的的環境，Kaggle.2021.11
 
 ## Data
 
