@@ -6,7 +6,7 @@ brats20 數據處理
 
 - brats-2020-pytorch-unet2d-2，使用 Kaggle 原作者的的環境，並在 Kaggle.2021.11 上面執行 : https://www.kaggle.com/code/kanhorst/brats-2020-pytorch-unet2d-2
 
-- 2024_brats-2020-pytorch-unet2d-2，將版本改為目前最新 Kaggle 的環境版本 2024 : 
+- 2024_brats-2020-pytorch-unet2d-2，將版本改為目前最新 Kaggle 的環境版本 2024 : https://www.kaggle.com/code/kanhorst/2024_brats-2020-pytorch-unet2d-2
 
 ## Data
 
